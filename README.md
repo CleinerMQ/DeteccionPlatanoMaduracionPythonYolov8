@@ -6,7 +6,7 @@ Este proyecto permite detectar el estado de maduración de plátanos en tiempo r
 - ✅ **Apto para chifles**
 - ⚠️ **No apto para chifles**
 
-Gracias a la integración de **YOLOv8**, **Python** y una interfaz con **Tkinter** con un **modelo entrenado(best.pt)**, este sistema es ideal para la automatización del control de calidad en procesos agroindustriales.
+Gracias a la integración de **YOLOv8**, **Python** y una interfaz con **Tkinter** consumiendo un **modelo entrenado(best.pt)**, este sistema es ideal para la automatización del control de calidad en procesos agroindustriales.
 
 ---
 
